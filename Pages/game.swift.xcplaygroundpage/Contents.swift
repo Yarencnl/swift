@@ -28,3 +28,4 @@ print("The level's average score is \(levelAverageScore).")
 let averageLevelScore = Double(levelScoreDifference) / Double(levels)
 
 print("The correct level's average score is \(averageLevelScore).")
+
